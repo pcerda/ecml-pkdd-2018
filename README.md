@@ -8,12 +8,10 @@ https://hal.inria.fr/hal-01806175
 
 To be presented at ECML PKDD 2018
 http://www.ecmlpkdd2018.org
+ 
 
 
-### 
-
-
-#required packages
+##  required packages
 
 - numpy
 - scipy
