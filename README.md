@@ -22,6 +22,6 @@ http://www.ecmlpkdd2018.org
 
 ## Citation
 
-Patricio Cerda, Gaël Varoquaux, Balázs Kégl (2018)
+Patricio Cerda, Gaël Varoquaux, Balázs Kégl (2018).
 Similarity encoding for learning with dirty categorical variables.
 Manuscript accepted for publication at: Machine Learning Journal. Springer
