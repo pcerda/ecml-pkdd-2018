@@ -11,10 +11,17 @@ http://www.ecmlpkdd2018.org
  
 
 
-##  required packages
+##  Required packages
 
 - numpy
 - scipy
 - pandas
 - scikit-learn
 - dirty_cat (Implementation of Similarity encoder: https://dirty-cat.github.io)
+
+
+## Citation
+
+Patricio Cerda, Gaël Varoquaux, Balázs Kégl (2018)
+Similarity encoding for learning with dirty categorical variables.
+Manuscript accepted for publication at: Machine Learning Journal. Springer
