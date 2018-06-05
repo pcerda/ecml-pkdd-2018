@@ -1,5 +1,3 @@
-Scripts for paper:
-
 ## Similarity encoding for learning with dirty categorical variables
 
 Patricio Cerda, Gaël Varoquaux, Balázs Kégl. 2018.
@@ -12,5 +10,13 @@ To be presented at ECML PKDD 2018
 http://www.ecmlpkdd2018.org/
 
 
-Implementation of Similarity encoder:
-https://dirty-cat.github.io/stable/
+### 
+
+
+#required packages
+
+- numpy
+- scipy
+- pandas
+- scikit-learn
+- dirty_cat (Implementation of Similarity encoder: https://dirty-cat.github.io/stable/)
