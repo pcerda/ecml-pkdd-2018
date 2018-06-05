@@ -4,8 +4,13 @@ Scripts for paper:
 
 Patricio Cerda, Gaël Varoquaux, Balázs Kégl. 2018.
 
-Accepted at the Machine Learning journal. Springer
+Accepted for publication at Machine Learning journal. Springer
 
 https://hal.inria.fr/hal-01806175
 
 To be presented at ECML PKDD 2018
+http://www.ecmlpkdd2018.org/
+
+
+Implementation of Similarity encoder:
+https://dirty-cat.github.io/stable/
